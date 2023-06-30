@@ -1,1 +1,1 @@
-This's my Readme file on my lil bit of knowledge on C
+This's my Readme file on my lil bit knowledge on C
