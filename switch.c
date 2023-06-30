@@ -24,6 +24,9 @@ int main()
     case 'F':
         printf("Fail!");
         break;
+    case 'X':
+	printf("Incomplete Exams");
+	break;
     case 'Y':
 	printf("Examination Thuggery");
 	break;
