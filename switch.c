@@ -24,6 +24,9 @@ int main()
     case 'F':
         printf("Fail!");
         break;
+    case 'Y':
+	printf("Examination Thuggery");
+	break;
     default:
         printf("Invalid grade!");
         break;
