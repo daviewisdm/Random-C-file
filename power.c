@@ -1,4 +1,8 @@
 #include <stdio.h>
+/**
+ *Return 0
+/*
+
 int main()
 {
     int base, exponent, power = 1;
