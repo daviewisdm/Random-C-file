@@ -1,5 +1,5 @@
 ## Readme
-This repository contains three codes:
+This repository contains three sets of codes:
 * A code that checks eligibility for betting
 * A code that checks for leap years
 * A code that finds the power of a number
